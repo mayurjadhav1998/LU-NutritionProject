@@ -1,2 +1,3 @@
-# nutrition
-Nutrition website using JavaScript and Node JS
+# nutrition app 
+Nutrition website using mongodb and Node-JS
+by mayur Dhanaji Jadhav
